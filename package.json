@@ -36,7 +36,7 @@
     "node-tesseract": "^0.2.7",
     "node-xlsx": "^0.15.0",
     "nodemon": "^2.0.4",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "xlsx": "^0.16.1",
     "xlsx-style": "^0.8.13"
   }
