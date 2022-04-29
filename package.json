@@ -16,7 +16,7 @@
   "license": "ISC",
   "homepage": "",
   "devDependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "baidu-aip-sdk": "^2.4.6",
     "baidu-ocr-api": "^2.0.5",
     "body-parser": "^1.18.3",
